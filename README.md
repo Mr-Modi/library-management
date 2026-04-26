@@ -1,8 +1,8 @@
-# library-management
-
 Description Build a backend API for managing a library’s book inventory. The system
 should handle standard book management and also process notifications for users when a
 wishlisted book is returned.
+
+
 Requirements
 ● CRUD Operations for Books:
 ○ Create: Add a new book with fields like title, author, isbn,
